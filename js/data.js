@@ -4,7 +4,7 @@ export const questions = [
     question: '곧 크리스마스! 회사에서 크리스마스 파티 스텝을 모집한다는데?',
     choices: [
       { text: '파티 스텝은 못하지ㅎ...<br>(그래도 파티는 재밌겠다 히히)', value: 'i' },
-      { text: '재밌겠다!<br>○○한테 같이 지원하자고 해야지~', value: 'e' }
+      { text: '재밌겠다!<br>건우한테 같이 지원하자고 해야지~', value: 'e' }
     ]
   },
   {
@@ -12,15 +12,15 @@ export const questions = [
     question: '해외 출장이 잡혔다!<br>전날 잠들기 전 나는?',
     choices: [
       { text: '짐 다 챙겼고 일찍 자야지~', value: 's' },
-      { text: '다 챙겼겠지?<br>여분 옷을 좀 더 챙길까..(뒤척뒤척)', value: 'n' }
+      { text: '다 챙겼겠지?<br>예진이을 좀 더 챙길까..(뒤척뒤척)', value: 'n' }
     ]
   },
   {
     number: '03',
-    question: '친했던 동기가<br>퇴사를?',
+    question: '친했던 건우가<br>투정을?',
     choices: [
       { text: '일하면서 많이 힘들었나?<br>내가 좀 더 챙겨줄걸.', value: 'f' },
-      { text: '아 이직하나?<br>퇴사하고 뭐하냐고 물어봐야지.', value: 't' }
+      { text: '아 혼인신고하나?<br>퇴사하고 뭐하냐고 물어봐야지.', value: 't' }
     ]
   },
   {
